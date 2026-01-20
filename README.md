@@ -1,8 +1,1 @@
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-##backend
-pip install -r requirements.txt
-uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+Crime Scene Reconstruction Using AI with Deep Learning is a project that uses artificial intelligence and computer vision to automatically analyze crime scene images and videos. The system detects key evidence such as weapons, victims, and spatial relationships, and generates a clear 2D or 3D reconstruction of the scene. By reducing manual effort and human bias, the project helps investigators understand the sequence of events more accurately and efficiently.
