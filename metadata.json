@@ -1,0 +1,5 @@
+{
+  "name": "ForensicLens 3D",
+  "description": "An AI-powered crime scene analysis suite that reconstructs 3D environments from images, generates forensic reports, and visualizes evidence data.",
+  "requestFramePermissions": []
+}
